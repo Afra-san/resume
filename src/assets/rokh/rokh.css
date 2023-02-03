@@ -1,0 +1,81 @@
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-Thin.eot") format("eot"),
+         url("./woff2/Rokh-Thin.woff2") format("woff2"),
+         url("./woff/Rokh-Thin.woff") format("woff");
+         font-style: normal;
+         font-weight: 100;
+}
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-Light.eot") format("eot"),
+         url("./woff2/Rokh-Light.woff2") format("woff2"),
+         url("./woff/Rokh-Light.woff") format("woff");
+         font-style: normal;
+         font-weight: 200;
+}
+  
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-Normal.eot") format("eot"),
+         url("./woff2/Rokh-Normal.woff2") format("woff2"),
+         url("./woff/Rokh-Normal.woff") format("woff");
+         font-style: normal;
+         font-weight: 300;
+}
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-Regular.eot") format("eot"),
+         url("./woff2/Rokh-Regular.woff2") format("woff2"),
+         url("./woff/Rokh-Regular.woff") format("woff");
+         	font-style: normal;
+         font-weight: 400;
+}
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-Medium.eot") format("eot"),
+         url("./woff2/Rokh-Medium.woff2") format("woff2"),
+         url("./woff/Rokh-Medium.woff") format("woff");
+         	font-style: normal;
+         font-weight: 500;
+}
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-SemiBold.eot") format("eot"),
+         url("./woff2/Rokh-SemiBold.woff2") format("woff2"),
+         url("./woff/Rokh-SemiBold.woff") format("woff");
+         font-style: normal;
+         font-weight: 400;
+}
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-Bold.eot") format("eot"),
+         url("./woff2/Rokh-Bold.woff2") format("woff2"),
+         url("./woff/Rokh-Bold.woff") format("woff");
+         	font-style: normal;
+         font-weight: 600;
+}
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-SemiBold.eot") format("eot"),
+         url("./woff2/Rokh-SemiBold.woff2") format("woff2"),
+         url("./woff/Rokh-SemiBold.woff") format("woff");
+         	font-style: normal;
+         font-weight: 500;
+}
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-ExtraBold.eot") format("eot"),
+         url("./woff2/Rokh-ExtraBold.woff2") format("woff2"),
+         url("./woff/Rokh-ExtraBold.woff") format("woff");
+         	font-style: normal;
+         font-weight: 700;
+}
+@font-face {
+    font-family: "Rokh";
+    src: url("./eot/Rokh-Black.eot") format("eot"),
+         url("./woff2/Rokh-Black.woff2") format("woff2"),
+         url("./woff/Rokh-Black.woff") format("woff");
+         	font-style: normal;
+         font-weight: 800;
+}

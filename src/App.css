@@ -1,0 +1,122 @@
+.radius {
+    border-radius: 33px;
+}
+.box-size {
+    width: 302px;
+    height: 251px;  
+}
+@media (min-width: 1280px) {
+    .box-size {
+        width: 362px;
+        height: 302px;
+    }
+    
+}
+@media (max-width: 1024px) {
+    .box-size {
+        width: 362px;
+        height: 302px;
+    }
+    
+}
+@media (max-width: 480px) {
+    .box-size {
+        width: 302px;
+        height: 251px;
+    }
+    
+}
+
+.transform-1 {
+    transform: translate(150%, 150%);
+}
+.transform-2 {
+    transform: translate(180%, 50%);
+}
+.transform-3 {
+    transform: translate(-120%, 250%);
+}
+@media (max-width: 1024px) {
+    .transform-1 {
+        transform: translate(100%, 100%);
+    }
+    .transform-2 {
+        transform: translate(120%, 0%);
+    }
+    .transform-3 {
+        transform: translate(-100%, 250%);
+    }
+    
+}
+@media (max-width: 640px) {
+    .transform-1 {
+        transform: translate(100%, 100%);
+    }
+    .transform-2 {
+        transform: translate(80%, 0%);
+    }
+    .transform-3 {
+        transform: translate(-20%, 480%);
+    }
+    
+}
+.cont {
+    height: 1100px;
+}
+.chom {
+    background: url(./assets/lib.jpg); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon {
+    transition: all 0.3s ease-out;
+    background: transparent;
+}
+.icon:hover {
+    filter: drop-shadow(0px 0px 20px #292524);
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+}
+.img-1 {
+    background: url(./assets/v1.png); 
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-2 {
+    background: url(./assets/v2.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.img-3 {
+    background: url(./assets/cart.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.img-4 {
+    background: url(./assets/proto.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.img-5 {
+    background: url(./assets/dash.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.img-6 {
+    background: url(./assets/rimakii.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+
+.text-xolor {
+    color: #676767;
+}
