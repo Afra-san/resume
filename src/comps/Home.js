@@ -14,7 +14,7 @@ export default function Home() {
         <motion.h2 initial={{ opacity: 0}}
                    animate={{ opacity: 1}}
                    transition={{ duration: 1.5, type: "tween" }}
-                   className="text-xl font-light absolute transform-2 sm:text-3xl">Front-end Developer</motion.h2>
+                   className="text-xolor text-xl font-light absolute transform-2 sm:text-3xl">Front-end Developer</motion.h2>
         <motion.p  initial={{ opacity: 0}}
                    animate={{ opacity: 1}}
                    transition={{ duration: 3, type: "tween" }}
